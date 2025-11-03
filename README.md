@@ -79,50 +79,65 @@ I believe in the power of **continuous learning**, **open-source collaboration**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 **Featured Projects**
 
-### 🎨 **AI-Powered Design Tools**
-**Building the future of design with AI integration**
-- Crafting tools that leverage ChatGPT, Claude, and custom models to enhance creative workflows
-- Real-time collaboration features with WebSocket integration
-- Deployed on AWS with scalable architecture
+### 1. **BrightRoute — Career Guidance Platform**  
+**Description:** AI-powered career guidance platform for Rwandan A-Level students, helping them make informed educational and career choices.  
+**Tech Stack:** TypeScript, React, Node.js, PostgreSQL, Vercel  
+**Link:** [Live Demo](#) | [Repository](#)  
+**Impact:** Helping students discover career paths through data-driven insights.  
 
-### 🏗️ **Scalable Full-Stack Architecture**
-**From startup MVP to enterprise-grade systems**
-- Designed microservices infrastructure with Docker & Kubernetes
-- Implemented CI/CD pipelines reducing deployment time by 80%
-- Database optimization resulting in 10x performance improvement
-- Complete monitoring and logging with ELK stack
+---
 
-### 📊 **Real-Time Analytics Dashboard**
-**Advanced data visualization with actionable insights**
-- Built interactive dashboards with React + D3.js
-- WebSocket-based real-time data streaming
-- PostgreSQL backend with optimized queries
-- Deployed on AWS EC2 with auto-scaling
+### 2. **Aristoteportfolio — Creative Portfolio Design**  
+**Description:** Interactive portfolio website with real-time collaborative features including live drawing, commenting, and cursor tracking.  
+**Tech Stack:** React, TypeScript, Supabase, Tailwind CSS, Next.js  
+**Features:** Real-time commenting system, collaborative drawing, live cursor tracking, responsive design.  
+**Link:** [Repository](#)  
+**Impact:** Showcases modern web development practices and real-time collaboration patterns.  
 
-### 🤖 **AI Chatbot & Automation Platform**
-**N8N + OpenAI Integration for Business Automation**
-- Developed custom N8N workflows for client onboarding
-- Integrated ChatGPT for intelligent customer support
-- Automated document processing and data extraction
-- Reduced manual tasks by 70%
+---
 
-### 🌐 **Full-Stack SaaS Application**
-**Production-ready application with auth, payments, and monitoring**
-- Next.js frontend with TypeScript and Tailwind CSS
-- Node.js/Express backend with PostgreSQL
-- Stripe integration for payment processing
-- Auth0 for secure authentication
-- Real-time notifications with Socket.io
+### 3. **Job Board Filters — Advanced Filtering System**  
+**Description:** Dynamic job board application with sophisticated filtering and search capabilities.  
+**Tech Stack:** TypeScript, React, Node.js, PostgreSQL  
+**Features:** Real-time filtering, search optimization, and responsive UI.  
+**Link:** [Repository](#)  
+**Impact:** Improved job discovery experience for job seekers.  
 
-### 📱 **Mobile-First Web Application**
-**Responsive design with progressive enhancement**
-- React Native web and mobile apps
-- Offline-first architecture with Service Workers
-- Geolocation and real-time positioning
-- PWA capabilities for app-like experience
+---
 
+### 4. **AI Worship Projection — AI Integration Project**  
+**Description:** AI-powered application leveraging modern language models for intelligent content generation.  
+**Tech Stack:** TypeScript, Python, Claude/ChatGPT APIs, LangChain  
+**Features:** AI-powered content generation, intelligent recommendations.  
+**Link:** [Repository](#)  
+**Impact:** Demonstrates AI integration best practices.  
+
+---
+
+### 5. **UI Kit Design Systems — Component Library**  
+**Description:** Comprehensive design system with 100+ reusable UI components and design tokens.  
+**Tech Stack:** React, TypeScript, Storybook, Figma, CSS-in-JS  
+**Features:** Component documentation, design tokens, and responsive components.  
+**Link:** [Repository](#)  
+**Impact:** Reduced development time by 40% across projects.  
+
+---
+
+### 6. **Langflow & LangChain Explorations**  
+**Description:** Experimentation with modern AI workflow frameworks and LLM integration patterns.  
+**Tech Stack:** Python, Jupyter Notebooks, LangChain, Langflow  
+**Focus:** AI prompt engineering, workflow automation, LLM integration.  
+**Link:** [Langflow](#) | [LangChain](#)  
+
+---
+
+### 7. **CI/CD Final Project — DevOps Pipeline**  
+**Description:** Complete CI/CD implementation demonstrating modern deployment practices.  
+**Tech Stack:** Python, GitHub Actions, Docker, AWS  
+**Focus:** Automated testing, continuous deployment, infrastructure as code.  
+**Link:** [Repository](#)
 ---
 
 ## 📊 GitHub Stats & Activity
