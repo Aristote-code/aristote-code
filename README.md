@@ -25,6 +25,29 @@ Building end-to-end applications that integrate AI seamlessly
 
 ---
 
+## 📊 GitHub Stats
+
+### Overall Activity
+<table>
+<tr>
+<td width="50%">
+
+![Aristote's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aristote-code&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristote-code&theme=dark&layout=compact)
+
+</td>
+</tr>
+</table>
+
+### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aristote-code&theme=dark)](https://git.io/streak-stats)
+
+---
+
 ## 🤝 Let's Collaborate!
 
 I'm always excited to work on innovative projects. Whether you need:
@@ -41,33 +64,3 @@ I'm always excited to work on innovative projects. Whether you need:
 
 ### **Get in Touch:**
 - 📧 **Email**: [gahima.aristote@gmail.com](mailto:gahima.aristote@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/gahima-aristote](https://www.linkedin.com/in/gahima-aristote/)
-- 💼 **GitHub**: [@Aristote-code](https://github.com/Aristote-code)
-- 🌐 **Portfolio**: [aristote.dev](https://aristote.dev)
-
----
-
-## 📈 By The Numbers
-
-| Metric | Value |
-|--------|-------|
-| GitHub Repositories | 71+ |
-| LinkedIn Followers | 9,600+ |
-| Featured Projects | 6+ |
-| Years of Experience | 3+ |
-| Design Systems Built | 5+ |
-| Clients Served | 20+ |
-| Average Project Delivery | 2-4 weeks |
-| Code Quality Focus | 95%+ |
-
----
-
-## ⏰ Last Updated
-**Last Updated**: November 3, 2025
-
-*"The best products are built at the intersection of design excellence, technical expertise, and user empathy."*
-— Aristote
-
----
-
-**Made with ❤️ by Aristote** | [Follow on GitHub](https://github.com/Aristote-code) | [Connect on LinkedIn](https://www.linkedin.com/in/gahima-aristote/)
