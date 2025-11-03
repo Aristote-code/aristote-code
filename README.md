@@ -1,5 +1,4 @@
 # 🎯 Hey there! I'm Aristote 👨‍💻
-
 ![Design Engineering](https://img.shields.io/badge/Design%20Engineering-7C3AED?style=flat) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-45B7D1?style=flat) ![AI%20Integration](https://img.shields.io/badge/AI%20Integration-FF9A00?style=flat)
 
 ---
@@ -42,100 +41,36 @@ I thrive where **speed meets quality**, where **ideas are validated quickly**, a
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodejs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFA500?style=flat&logo=firebase&logoColor=white)
 
 ### **Design & UI/UX**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design%20Systems-7C3AED?style=flat)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-FF0000?style=flat&logo=adobe&logoColor=white) ![Prototyping](https://img.shields.io/badge/Prototyping-6C3AE5?style=flat) ![Design Systems](https://img.shields.io/badge/Design%20Systems-FF6B9D?style=flat)
 
-### **AI & Automation Tools**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Langflow](https://img.shields.io/badge/Langflow-45B7D1?style=flat) ![Make](https://img.shields.io/badge/Make-FF6B35?style=flat) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white)
+### **DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-3DDC84?style=flat)
+
+### **AI & Automation**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat) ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat) ![AI Integration](https://img.shields.io/badge/AI%20Integration-FF9A00?style=flat) ![LLMs](https://img.shields.io/badge/LLMs-0EA5E9?style=flat)
 
 ### **No-Code Platforms & Tools**
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
-
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-FF6B35?style=flat&logo=n8n&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Make](https://img.shields.io/badge/Make-FF6B35?style=flat) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white) ![Rive](https://img.shields.io/badge/Rive-7C3AED?style=flat) ![StoryBook](https://img.shields.io/badge/StoryBook-FF4785?style=flat&logo=storybook&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Featured Projects
 
-### 1. **BrightRoute** — Career Guidance Platform
-- **Description**: AI-powered career guidance platform for Rwandan A-Level students, helping them make informed educational and career choices
-- **Tech Stack**: TypeScript, React, Node.js, PostgreSQL, Vercel
-- **Link**: [Live Demo](https://bright-route-frontend.vercel.app/) | [Repository](https://github.com/Aristote-code/BrightRoute)
-- **Impact**: Helping students discover career paths through data-driven insights
+### 🚀 **AI-Powered Design Tools**
+Creating tools that use AI to enhance creative workflows
 
-### 2. **Aristoteportfolio** — Creative Portfolio Design
-- **Description**: Interactive portfolio website with real-time collaborative features including live drawing, commenting, and cursor tracking
-- **Tech Stack**: React, TypeScript, Supabase, Tailwind CSS, Next.js
-- **Features**: Real-time commenting system, collaborative drawing, live cursor tracking, responsive design
-- **Link**: [Repository](https://github.com/Aristote-code/Aristoteportfolio)
-- **Impact**: Showcases modern web development practices and real-time collaboration patterns
+### 🚀 **Scalable Architecture**
+Designing systems that can grow from startup to enterprise
 
-### 3. **Job Board Filters** — Advanced Filtering System
-- **Description**: Dynamic job board application with sophisticated filtering and search capabilities
-- **Tech Stack**: TypeScript, React, Node.js, PostgreSQL
-- **Features**: Real-time filtering, search optimization, responsive UI
-- **Link**: [Repository](https://github.com/Aristote-code/job-board-filters)
-- **Impact**: Improved job discovery experience for job seekers
+### 📊 **Data Visualization**
+Advanced analytics dashboards with real-time insights
 
-### 4. **AI Worship Projection** — AI Integration Project
-- **Description**: AI-powered application leveraging modern language models for intelligent content generation
-- **Tech Stack**: TypeScript, Python, Claude/ChatGPT APIs, LangChain
-- **Features**: AI-powered content generation, intelligent recommendations
-- **Link**: [Repository](https://github.com/Aristote-code/ai-worship-projection)
-- **Impact**: Demonstrates AI integration best practices
-
-### 5. **UI Kit Design Systems** — Component Library
-- **Description**: Comprehensive design system with 100+ reusable UI components and design tokens
-- **Tech Stack**: React, TypeScript, Storybook, Figma, CSS-in-JS
-- **Features**: Component documentation, design tokens, responsive components
-- **Link**: [Repository](https://github.com/Aristote-code/ui-kit-design-systems)
-- **Impact**: Reduced development time by 40% across projects
-
-### 6. **Langflow & LangChain Explorations**
-- **Description**: Experimentation with modern AI workflow frameworks and LLM integration patterns
-- **Tech Stack**: Python, Jupyter Notebooks, LangChain, Langflow
-- **Focus**: AI prompt engineering, workflow automation, LLM integration
-- **Link**: [Langflow](https://github.com/Aristote-code/langflow) | [LangChain](https://github.com/Aristote-code/langchain)
-
-### 7. **CI/CD Final Project** — DevOps Pipeline
-- **Description**: Complete CI/CD implementation demonstrating modern deployment practices
-- **Tech Stack**: Python, GitHub Actions, Docker, AWS
-- **Focus**: Automated testing, continuous deployment, infrastructure as code
-- **Link**: [Repository](https://github.com/Aristote-code/ci-cd-final-project)
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aristote-code&show_icons=true&theme=radical&hide_border=true" alt="Aristote's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristote-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aristote-code&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌱 What I'm Currently Exploring
-
-🔬 **Advanced AI Integration** — Building products that leverage cutting-edge LLMs (Claude 3.5, GPT-4)  
-🎨 **AI-Powered Design Tools** — Creating tools that use AI to enhance creative workflows  
-🚀 **Scalable Architecture** — Designing systems that can grow from startup to enterprise  
-📊 **Data Visualization** — Advanced analytics dashboards with real-time insights  
-🌐 **Full-Stack AI Apps** — Building end-to-end applications that integrate AI seamlessly  
+### 🌐 **Full-Stack AI Apps**
+Building end-to-end applications that integrate AI seamlessly
 
 ---
 
@@ -175,8 +110,10 @@ I'm always excited to work on innovative projects. Whether you need:
 
 ## ⏰ Last Updated
 
-**Last Updated**: November 3, 2025  
-*"The best products are built at the intersection of design excellence, technical expertise, and user empathy."*  
+**Last Updated**: November 3, 2025
+
+*"The best products are built at the intersection of design excellence, technical expertise, and user empathy."*
+
 — Aristote
 
 ---
