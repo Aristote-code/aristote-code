@@ -147,25 +147,6 @@ I believe in the power of **continuous learning**, **open-source collaboration**
 
 ---
 
-## 📈 By The Numbers
-
-<div align="center">
-
-| Metric | Count |
-|--------|-------|
-| 💻 **Active Projects** | 15+ |
-| ⭐ **GitHub Stars** | 500+ |
-| 📦 **Contributions** | 2000+ |
-| 🔗 **Repositories** | 45+ |
-| 👥 **Developers Mentored** | 20+ |
-| 📅 **Years in Development** | 5+ |
-| 🚀 **Deployed Applications** | 30+ |
-| 💬 **Lines of Code Written** | 100K+ |
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate!
 
 I'm always interested in:
