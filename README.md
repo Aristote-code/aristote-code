@@ -133,13 +133,6 @@ I believe in the power of **continuous learning**, **open-source collaboration**
 
 ---
 
-### 7. **CI/CD Final Project — DevOps Pipeline**  
-**Description:** Complete CI/CD implementation demonstrating modern deployment practices.  
-**Tech Stack:** Python, GitHub Actions, Docker, AWS  
-**Focus:** Automated testing, continuous deployment, infrastructure as code.  
-**Link:** [Repository](#)
----
-
 ## 📊 GitHub Stats & Activity
 
 ### Overall Activity
