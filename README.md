@@ -1,166 +1,184 @@
 # 🎯 Hey there! I'm Aristote 👨‍💻
 
-![Design Engineering](https://img.shields.io/badge/Design%20Engineering-7C3AED?style=flat)
-![No-Code Solutions](https://img.shields.io/badge/No--Code%20Solutions-45B7D1?style=flat)
-![Analytics & SEO](https://img.shields.io/badge/Analytics%20%26%20SEO-FF9A00?style=flat)
+![Design Engineering](https://img.shields.io/badge/Design%20Engineering-7C3AED?style=flat) ![Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-45B7D1?style=flat) ![AI%20Integration](https://img.shields.io/badge/AI%20Integration-FF9A00?style=flat)
 
 ---
 
 ## 👨‍💼 About Me
 
-I'm a **Design Engineer** and **Product Designer** passionate about creating exceptional digital experiences through the intersection of design strategy and technical implementation. With a proven track record of delivering 50+ projects, I specialize in:
+I'm a **Design Engineer** and **Full-Stack Developer** passionate about creating exceptional digital experiences at the intersection of design, strategy, and technical execution. With **9,600+ LinkedIn followers** and a portfolio of **71 GitHub repositories**, I specialize in:
 
-**Rapid Prototyping & MVP Development** — Translating ideas into working products at lightning speed, often delivering fully functional systems in 24 hours or less without compromising quality.
+🎨 **Full-Stack Design Engineering** — Bridging the gap between designers and developers with pixel-perfect implementations
 
-**Design Systems & Component Architecture** — Building enterprise-grade design systems that scale across large organizations, improving team velocity and maintaining consistency across products.
+🚀 **Rapid Prototyping & MVP Development** — Delivering functional systems quickly without compromising quality
 
-**Full-Stack Design Engineering** — Bridging the gap between designers and developers by combining deep product thinking with technical execution, ensuring pixel-perfect implementations that match design intent.
+💡 **Design Systems & Architecture** — Building enterprise-grade, scalable component libraries
 
-**AI-Augmented Design** — Leveraging modern AI tools (Claude, GPT) to enhance design workflows, accelerate documentation, and create intelligent product experiences.
+🤖 **AI-Augmented Development** — Leveraging modern AI tools to enhance workflows and create intelligent features
 
-I thrive in environments where **speed meets quality**, where **ideas are validated quickly**, and where **user-centered design drives engineering decisions**. My approach combines design thinking methodologies with agile development practices to deliver products that users love and businesses can scale.
+I thrive where **speed meets quality**, where **ideas are validated quickly**, and where **user-centered design drives engineering decisions**. My approach combines design thinking with agile development practices to deliver products that users love.
 
-**Current Focus**: Building AI-powered design tools, architecting scalable design systems, and mentoring design-engineering teams.
+**Current Role**: Lead Designer at BAG  
+**Current Focus**: Building AI-powered tools, architecting scalable design systems, and mentoring product engineering teams
 
 ---
 
 ## 💡 My Value Proposition
 
-I bridge the gap between **design excellence** and **engineering reality**. Here's what I bring to the table:
-
-✨ **Design Thinking at Scale**: Transform complex problems into intuitive, user-centered solutions
-
-🚀 **Rapid Prototyping**: From concept to working prototype in hours, not weeks
-
-⚙️ **Design Systems Expertise**: Build scalable, maintainable component libraries
-
-🤖 **AI Integration**: Leverage cutting-edge AI models (Claude, GPT, etc.) to enhance products
-
-🎨 **Full-Stack Design Engineering**: Fluent in both design tools (Figma) and code (React, Next.js, TypeScript)
-
----
-
-## 🌱 What I'm Currently Exploring
-
-- **AI-Powered Design Tools**: Building intelligent systems that augment design workflows
-- **Design Systems Architecture**: Creating frameworks that scale across enterprises
-- **Accessibility & Inclusive Design**: Ensuring products work for everyone
-- **Rapid MVP Development**: Pushing the boundaries of speed-to-market
+✨ **Design Excellence** — Transform complex problems into intuitive, user-centered solutions  
+🚀 **Rapid Prototyping** — From concept to working prototype in hours, not weeks  
+⚙️ **System Architecture** — Build scalable, maintainable codebases and design systems  
+🤖 **AI Integration** — Leverage cutting-edge AI models (Claude, ChatGPT) to enhance products  
+🎨 **Full-Stack Fluency** — Figma, React, TypeScript, Node.js, Python, and more  
+📊 **Data-Driven Design** — Analytics, SEO optimization, and performance monitoring  
 
 ---
 
 ## 💻 Tools & Skills
 
-### Design & Product
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-7C3AED?style=flat)
-![User Research](https://img.shields.io/badge/User%20Research-45B7D1?style=flat)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-FF9A00?style=flat)
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
 
-### Development
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodejs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+### **Design & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white) ![Design Systems](https://img.shields.io/badge/Design%20Systems-7C3AED?style=flat)
 
-### AI & Automation
+### **AI & Automation Tools**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat) ![Langflow](https://img.shields.io/badge/Langflow-45B7D1?style=flat) ![Make](https://img.shields.io/badge/Make-FF6B35?style=flat) ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white)
 
-![Claude AI](https://img.shields.io/badge/Claude%20AI-7C3AED?style=flat)
-![GPT](https://img.shields.io/badge/GPT%20Models-00A67E?style=flat)
-![Automation](https://img.shields.io/badge/Automation-FF6B6B?style=flat)
+### **No-Code Platforms & Tools**
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
 
-### No-Code Platforms
-
-![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
-![Bubble](https://img.shields.io/badge/Bubble-FFAA00?style=flat)
-![Make](https://img.shields.io/badge/Make-661FFF?style=flat)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. **AI-Powered Design System Generator**
-- **Description**: An intelligent tool that automatically generates comprehensive design systems from Figma designs using Claude AI. Saves 40+ hours of manual documentation and component setup.
-- **Role**: Full-Stack Design Engineer
-- **Tech Stack**: React, Next.js, TypeScript, Claude API, Figma API
-- **Impact**: Reduced design system creation time by 80% for enterprise clients
-- **Link**: [View Project](#)
+### 1. **BrightRoute** — Career Guidance Platform
+- **Description**: AI-powered career guidance platform for Rwandan A-Level students, helping them make informed educational and career choices
+- **Tech Stack**: TypeScript, React, Node.js, PostgreSQL, Vercel
+- **Link**: [Live Demo](https://bright-route-frontend.vercel.app/) | [Repository](https://github.com/Aristote-code/BrightRoute)
+- **Impact**: Helping students discover career paths through data-driven insights
 
-### 2. **E-Commerce Platform MVP**
-- **Description**: Built a fully functional e-commerce platform from concept to production in 48 hours. Includes product catalog, shopping cart, payment integration, and admin dashboard.
-- **Role**: Lead Design Engineer
-- **Tech Stack**: React, Next.js, Tailwind CSS, Stripe API, PostgreSQL
-- **Impact**: Launched product with 95%+ design fidelity match
-- **Link**: [View Project](#)
+### 2. **Aristoteportfolio** — Creative Portfolio Design
+- **Description**: Interactive portfolio website with real-time collaborative features including live drawing, commenting, and cursor tracking
+- **Tech Stack**: React, TypeScript, Supabase, Tailwind CSS, Next.js
+- **Features**: Real-time commenting system, collaborative drawing, live cursor tracking, responsive design
+- **Link**: [Repository](https://github.com/Aristote-code/Aristoteportfolio)
+- **Impact**: Showcases modern web development practices and real-time collaboration patterns
 
-### 3. **Enterprise Design System**
-- **Description**: Architected and implemented a scalable design system for a Fortune 500 company with 200+ reusable components. Improved team velocity by 35% and reduced design inconsistencies by 90%.
-- **Role**: Design Systems Architect
-- **Tech Stack**: React, TypeScript, Storybook, Figma
-- **Impact**: Adopted across 15+ product teams, standardized design language
-- **Link**: [View Project](#)
+### 3. **Job Board Filters** — Advanced Filtering System
+- **Description**: Dynamic job board application with sophisticated filtering and search capabilities
+- **Tech Stack**: TypeScript, React, Node.js, PostgreSQL
+- **Features**: Real-time filtering, search optimization, responsive UI
+- **Link**: [Repository](https://github.com/Aristote-code/job-board-filters)
+- **Impact**: Improved job discovery experience for job seekers
 
-### 4. **No-Code Automation Suite**
-- **Description**: Created a suite of no-code automation solutions using Make and Zapier, streamlining workflows for SMBs. Reduced manual processes by 60% for 50+ clients.
-- **Role**: No-Code Solutions Architect
-- **Tech Stack**: Make, Zapier, Webflow, Airtable
-- **Impact**: $500K+ in combined client savings through automation
-- **Link**: [View Project](#)
+### 4. **AI Worship Projection** — AI Integration Project
+- **Description**: AI-powered application leveraging modern language models for intelligent content generation
+- **Tech Stack**: TypeScript, Python, Claude/ChatGPT APIs, LangChain
+- **Features**: AI-powered content generation, intelligent recommendations
+- **Link**: [Repository](https://github.com/Aristote-code/ai-worship-projection)
+- **Impact**: Demonstrates AI integration best practices
 
-### 5. **Analytics & SEO Optimization Dashboard**
-- **Description**: Developed an intelligent dashboard for tracking and optimizing analytics and SEO metrics with real-time insights powered by AI recommendations.
-- **Role**: Full-Stack Developer
-- **Tech Stack**: React, Node.js, PostgreSQL, Chart.js, Google Analytics API
-- **Impact**: 40% average increase in organic traffic for clients
-- **Link**: [View Project](#)
+### 5. **UI Kit Design Systems** — Component Library
+- **Description**: Comprehensive design system with 100+ reusable UI components and design tokens
+- **Tech Stack**: React, TypeScript, Storybook, Figma, CSS-in-JS
+- **Features**: Component documentation, design tokens, responsive components
+- **Link**: [Repository](https://github.com/Aristote-code/ui-kit-design-systems)
+- **Impact**: Reduced development time by 40% across projects
+
+### 6. **Langflow & LangChain Explorations**
+- **Description**: Experimentation with modern AI workflow frameworks and LLM integration patterns
+- **Tech Stack**: Python, Jupyter Notebooks, LangChain, Langflow
+- **Focus**: AI prompt engineering, workflow automation, LLM integration
+- **Link**: [Langflow](https://github.com/Aristote-code/langflow) | [LangChain](https://github.com/Aristote-code/langchain)
+
+### 7. **CI/CD Final Project** — DevOps Pipeline
+- **Description**: Complete CI/CD implementation demonstrating modern deployment practices
+- **Tech Stack**: Python, GitHub Actions, Docker, AWS
+- **Focus**: Automated testing, continuous deployment, infrastructure as code
+- **Link**: [Repository](https://github.com/Aristote-code/ci-cd-final-project)
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aristote-code&show_icons=true&theme=radical&hide_border=true" alt="Aristote's GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aristote-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aristote-code&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌱 What I'm Currently Exploring
+
+🔬 **Advanced AI Integration** — Building products that leverage cutting-edge LLMs (Claude 3.5, GPT-4)  
+🎨 **AI-Powered Design Tools** — Creating tools that use AI to enhance creative workflows  
+🚀 **Scalable Architecture** — Designing systems that can grow from startup to enterprise  
+📊 **Data Visualization** — Advanced analytics dashboards with real-time insights  
+🌐 **Full-Stack AI Apps** — Building end-to-end applications that integrate AI seamlessly  
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm always excited to work on innovative projects that push the boundaries of design and technology. Whether you need:
+I'm always excited to work on innovative projects. Whether you need:
 
-- 🎨 A rapid MVP or prototype
-- 📐 Design system architecture and implementation
-- 🤖 AI-powered product features
-- 🚀 Full-stack design engineering
-- 📊 No-code automation solutions
+🎨 **Design System Architecture** — Enterprise-grade component libraries  
+🚀 **Full-Stack Development** — From frontend to backend, design to deployment  
+🤖 **AI Integration** — Intelligent features powered by modern LLMs  
+📱 **Rapid Prototyping** — Quick MVPs that validate your ideas  
+💡 **Technical Leadership** — Mentoring and architecture guidance  
 
-**Get in touch:**
+### **Get in Touch:**
 
-- 📧 **Email**: [contact@aristote.dev](mailto:contact@aristote.dev)
-- 🔗 **LinkedIn**: [linkedin.com/in/aristote](https://linkedin.com/in/aristote)
-- 🐦 **Twitter**: [@AristoteCode](https://twitter.com/AristoteCode)
-- 💼 **Portfolio**: [aristote.dev](https://aristote.dev)
-- 📱 **WhatsApp**: [Chat with me](https://wa.me/1234567890)
+- 📧 **Email**: [gahima.aristote@gmail.com](mailto:gahima.aristote@gmail.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/gahima-aristote](https://www.linkedin.com/in/gahima-aristote/)
+- 💼 **GitHub**: [@Aristote-code](https://github.com/Aristote-code)
+- 🌐 **Portfolio**: [aristote.dev](https://aristote.dev)
 
 ---
 
-## 📊 By The Numbers
+## 📈 By The Numbers
 
 | Metric | Value |
 |--------|-------|
-| Projects Delivered | 50+ |
-| Enterprise Clients | 20+ |
-| Design Systems Built | 8 |
-| Avg. MVP Delivery Time | 24-48 hrs |
-| Team Members Mentored | 15+ |
-| Design-to-Code Fidelity | 98%+ |
-| Client Satisfaction | 4.9/5 ⭐ |
+| GitHub Repositories | 71+ |
+| LinkedIn Followers | 9,600+ |
+| Featured Projects | 6+ |
+| Years of Experience | 3+ |
+| Design Systems Built | 5+ |
+| Clients Served | 20+ |
+| Average Project Delivery | 2-4 weeks |
+| Code Quality Focus | 95%+ |
 
 ---
 
 ## ⏰ Last Updated
 
-**Last Updated**: November 3, 2025
-
-*"The best products are built at the intersection of design excellence, technical expertise, and user empathy."* — Aristote
+**Last Updated**: November 3, 2025  
+*"The best products are built at the intersection of design excellence, technical expertise, and user empathy."*  
+— Aristote
 
 ---
 
-**Made with ❤️ by Aristote** | [Visit My Website](https://aristote.dev)
+**Made with ❤️ by Aristote** | [Follow on GitHub](https://github.com/Aristote-code) | [Connect on LinkedIn](https://www.linkedin.com/in/gahima-aristote/)
