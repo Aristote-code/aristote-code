@@ -6,177 +6,177 @@
 
 ## 💡 About Me
 
-I'm passionate about creating innovative solutions that bridge the gap between complex technology and user-friendly applications. With expertise spanning **full-stack development**, **AI/ML integration**, and **automation**, I dedicate myself to building products that not only solve real-world problems but also delight users.
+I'm a passionate developer obsessed with creating elegant solutions to complex problems. With a deep interest in **AI integration**, **scalable architecture**, and **no-code automation**, I blend technical expertise with creative thinking to build products that matter.
 
-My approach is:
-- **Problem-First**: Understanding the core issue before jumping to solutions
-- **User-Centric**: Designing experiences that feel intuitive and natural
-- **Performance-Minded**: Writing code that scales and performs under pressure
-- **Constantly Learning**: Staying updated with emerging technologies and industry trends
+I believe in the power of **continuous learning**, **open-source collaboration**, and **mentoring the next generation** of developers. Whether it's architecting full-stack applications, integrating cutting-edge AI models, or automating workflows, I'm all in.
+
+🌍 Based in Rwanda | 🚀 Constantly Learning | 💬 Open to Collaboration
 
 ---
 
 ## 🎯 Value Proposition
 
-I bring a unique blend of **technical expertise** and **creative problem-solving** to every project. Whether you need:
-- A scalable **full-stack application** from concept to production
-- **AI/ML integration** to automate complex workflows
-- **System optimization** for better performance and user experience
-- **Technical leadership** to guide your development team
+✨ **What I Bring to the Table:**
 
-I'm committed to delivering results that exceed expectations.
+- **Full-Stack Development**: Building scalable, production-ready applications from frontend to backend
+- **AI/ML Integration**: Seamlessly incorporating AI models and LLMs into modern applications
+- **Cloud Architecture**: AWS-native solutions with Docker, CI/CD pipelines, and infrastructure as code
+- **Automation & No-Code**: Leveraging N8N, Zapier, and custom automation for efficiency
+- **UI/UX Optimization**: Creating beautiful, responsive interfaces with modern frameworks
+- **Team Leadership**: Mentoring developers, code reviews, and fostering collaborative environments
+
+**Why work with me?** I combine technical depth with business acumen, ensuring solutions are both cutting-edge and aligned with your goals.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Core Development
-- **Languages**: JavaScript/TypeScript, Python, Go, SQL, HTML/CSS
-- **Frontend**: React, Next.js, Vue.js, Angular, Tailwind CSS, Material-UI
-- **Backend**: Node.js, Express, Django, FastAPI, Flask, PostgreSQL, MongoDB
-- **Full-Stack**: MERN, MEAN, JAMstack architectures
+### **Core Development**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
-### Cloud & DevOps
-- **Platforms**: AWS, Google Cloud, Azure, Vercel, Netlify
-- **Tools**: Docker, Kubernetes, CI/CD pipelines (GitHub Actions, GitLab CI)
-- **Infrastructure**: Terraform, CloudFormation, Infrastructure as Code
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-3DDC84?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### AI & Machine Learning
-- **Libraries**: TensorFlow, PyTorch, Scikit-learn, LangChain
-- **Applications**: NLP, Computer Vision, Recommendation Systems, Generative AI
-- **Tools**: Jupyter, Weights & Biases, MLflow
+### **AI & Machine Learning**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat)
+![Claude](https://img.shields.io/badge/Claude-7C3AED?style=flat)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-0EA5E9?style=flat)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-FF9A00?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=flat)
 
-### Design & No-Code Platforms
-- **Tools**: Figma, Adobe XD, Webflow
-- **Design Systems**: Creating scalable, maintainable design systems
-- **UI/UX**: Prototyping, user research, accessibility (WCAG)
+### **Design & No-Code Platforms**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-FF6B35?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF6C00?style=flat&logo=zapier&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-7C3AED?style=flat)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 
-### Databases & Data
-- **Relational**: PostgreSQL, MySQL, MariaDB
-- **NoSQL**: MongoDB, Firebase, DynamoDB
-- **Search**: Elasticsearch, Algolia
-- **Data Processing**: ETL pipelines, data warehousing
+### **Databases & Data**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### Tools & Utilities
-- **Version Control**: Git, GitHub, GitLab
-- **Testing**: Jest, Pytest, Cypress, Playwright
-- **Monitoring**: Sentry, DataDog, Prometheus
-- **Project Management**: Jira, Asana, Linear
-
----
-
-## 🚀 Featured Projects
-
-### 1. **BrightRoute** - Smart Route Optimization Platform
-**Description**: An intelligent routing system that optimizes delivery routes using machine learning algorithms and real-time traffic data.
-
-**Tech Stack**: Next.js, Python, TensorFlow, PostgreSQL, Redis, Google Maps API
-
-**Key Achievement**: Reduced delivery times by 30% and fuel costs by 25% for enterprise clients.
-
-**Status**: In production, serving 50+ businesses
-
----
-
-### 2. **Aristoteportfolio** - Dynamic Portfolio Builder
-**Description**: A no-code/low-code platform that empowers creators to build stunning portfolios without any technical knowledge.
-
-**Tech Stack**: React, Webflow, Node.js, Stripe, Firebase
-
-**Key Features**:
-- Drag-and-drop interface
-- Pre-built templates
-- Custom domain support
-- SEO optimization
-- Analytics dashboard
-
-**Impact**: 10,000+ portfolios created, 50,000+ monthly active users
+### **Tools & Utilities**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 3. **Job Board Filters** - Smart Job Search Engine
-**Description**: An advanced job search platform with AI-powered filtering and matching capabilities.
+## 🚀 **Featured Projects**
 
-**Tech Stack**: React, Django, Elasticsearch, PostgreSQL, Redis
-
-**Highlights**:
-- AI-powered job recommendations
-- Skill-based matching
-- Real-time notifications
-- Resume parser integration
+### 1. **BrightRoute — Career Guidance Platform**  
+**Description:** AI-powered career guidance platform for Rwandan A-Level students, helping them make informed educational and career choices.  
+**Tech Stack:** TypeScript, React, Node.js, PostgreSQL, Vercel  
+**Link:** [Live Demo](#) | [Repository](#)  
+**Impact:** Helping students discover career paths through data-driven insights.  
 
 ---
 
-### 4. **AI Worship Projection** - Generative AI Application
-**Description**: Exploring the boundaries of generative AI for creative content generation.
-
-**Tech Stack**: Python, GPT-3, LangChain, FastAPI
-
----
-
-### 5. **UI Kit Design Systems** - Component Library
-**Description**: A comprehensive, reusable component library built for consistency and scalability across projects.
-
-**Tech Stack**: React, Storybook, TypeScript, Styled Components
-
-**Components**: 100+ UI components with complete documentation
+### 2. **Aristoteportfolio — Creative Portfolio Design**  
+**Description:** Interactive portfolio website with real-time collaborative features including live drawing, commenting, and cursor tracking.  
+**Tech Stack:** React, TypeScript, Supabase, Tailwind CSS, Next.js  
+**Features:** Real-time commenting system, collaborative drawing, live cursor tracking, responsive design.  
+**Link:** [Repository](#)  
+**Impact:** Showcases modern web development practices and real-time collaboration patterns.  
 
 ---
 
-### 6. **Langflow & LangChain Explorations** - LLM Integration
-**Description**: Deep exploration of modern LLM frameworks for building advanced AI applications.
+### 3. **Job Board Filters — Advanced Filtering System**  
+**Description:** Dynamic job board application with sophisticated filtering and search capabilities.  
+**Tech Stack:** TypeScript, React, Node.js, PostgreSQL  
+**Features:** Real-time filtering, search optimization, and responsive UI.  
+**Link:** [Repository](#)  
+**Impact:** Improved job discovery experience for job seekers.  
 
 ---
 
-## 📊 By The Numbers
-
-| Metric | Value |
-|--------|-------|
-| **Projects Completed** | 50+ |
-| **Years of Experience** | 5+ |
-| **Technologies Mastered** | 30+ |
-| **Lines of Code Written** | 1M+ |
-| **Open Source Contributions** | 100+ |
-| **Publications & Articles** | 25+ |
-| **Community Impact** | 5K+ followers |
-| **Average Client Satisfaction** | 98% |
+### 4. **AI Worship Projection — AI Integration Project**  
+**Description:** AI-powered application leveraging modern language models for intelligent content generation.  
+**Tech Stack:** TypeScript, Python, Claude/ChatGPT APIs, LangChain  
+**Features:** AI-powered content generation, intelligent recommendations.  
+**Link:** [Repository](#)  
+**Impact:** Demonstrates AI integration best practices.  
 
 ---
 
-## 📈 GitHub Stats & Activity
+### 5. **UI Kit Design Systems — Component Library**  
+**Description:** Comprehensive design system with 100+ reusable UI components and design tokens.  
+**Tech Stack:** React, TypeScript, Storybook, Figma, CSS-in-JS  
+**Features:** Component documentation, design tokens, and responsive components.  
+**Link:** [Repository](#)  
+**Impact:** Reduced development time by 40% across projects.  
+
+---
+
+### 6. **Langflow & LangChain Explorations**  
+**Description:** Experimentation with modern AI workflow frameworks and LLM integration patterns.  
+**Tech Stack:** Python, Jupyter Notebooks, LangChain, Langflow  
+**Focus:** AI prompt engineering, workflow automation, LLM integration.  
+**Link:** [Langflow](#) | [LangChain](#)  
+
+---
+
+## 📊 GitHub Stats & Activity
 
 ### Overall Activity
-- **Total Repositories**: 40+
-- **Stars Received**: 500+
-- **Forks**: 200+
-- **Public Contributions**: 2000+
+
+| | |
+|---|---|
+|![Aristote's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aristote-code&show_icons=true&theme=dark&count_private=true&include_all_commits=true)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aristote-code&theme=dark&layout=compact)|
 
 ### Contribution Streak
-- **Current Streak**: 200+ days
-- **Longest Streak**: 365 days
-- **Average Commits per Day**: 5+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aristote-code&theme=dark)](https://git.io/streak-stats)
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm always excited to:
-- **Discuss** innovative ideas and technical challenges
-- **Contribute** to open-source projects aligned with my values
-- **Mentor** aspiring developers and technical teams
-- **Partner** on projects where I can add significant value
-- **Speak** at conferences about technology, innovation, and best practices
+I'm always interested in:
+- 🎯 **Challenging Projects** - Building scalable, innovative solutions
+- 👥 **Mentoring** - Helping developers level up their skills
+- 🔄 **Open Source** - Contributing to impactful projects
+- 💼 **Freelance Work** - Let's discuss your next big idea
+
+**Let's build something amazing together!**
 
 ---
 
 ## 📞 Get In Touch
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Portfolio**: [aristote.dev](https://aristote.dev)
-- **LinkedIn**: [linkedin.com/in/aristote-code](https://linkedin.com/in/aristote-code)
-- **Twitter**: [@AristoteCode](https://twitter.com/AristoteCode)
-- **GitHub**: [github.com/Aristote-code](https://github.com/Aristote-code)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gahimaaristote@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gahima-aristote)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GAristote)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aristote-code)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aristote.dev)
+
+</div>
 
 ---
 
-⭐ **If you find my work helpful, consider giving it a star!** ⭐
+<div align="center">
+
+### ⭐ If you find my work helpful, consider giving it a star! ⭐
+
+**Last Updated**: November 2025
+
+</div>
