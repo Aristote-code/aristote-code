@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Aristote 👨‍💻
 
-> **Product Designer |Full-Stack Developer | AI & Automation Enthusiast | Building the Future One Line of Code at a Time**
+> **Product Designer | Full-Stack Developer | AI & Automation Enthusiast | Building the Future One Line of Code at a Time**
 
 ---
 
